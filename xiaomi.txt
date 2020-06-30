@@ -65,8 +65,6 @@
 ||upgrade.mishop.pandora.xiaomi.com^
 ||data.mistat.xiaomi.com^
 
-!  屏蔽自动更新和安装有品
-
 ||package.cdn.pandora.xiaomi.com^
 ||package.box.xiaomi.com^
 ||ota.cdn.pandora.xiaomi.com^
@@ -98,7 +96,7 @@
 ||test.new.api.ad.xiaomi.com^
 ||ssp.ad.xiaomi.com^
 ||o2o.api.xiaomi.com^
-||api.cupid.ptqy.gitv.tv
+||api.cupid.ptqy.gitv.tv^
 ||stat.pandora.xiaomi.com^
 ||upgrade.mishop.pandora.xiaomi.com^
 ||logonext.tv.kuyun.com^
